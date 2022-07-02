@@ -1,0 +1,22 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "this my first npm init ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artyom682/Test-repo.git"
+  },
+  "author": "Vasin Artyom <vasinartem682@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artyom682/Test-repo/issues"
+  },
+  "homepage": "https://github.com/Artyom682/Test-repo#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
